@@ -1,16 +1,12 @@
 # KernelDrive-PluginsIndex
 Plugins made by me <acedmicabhishek>
 
-## Plugins 
+## Plugins 📦
 
-- **asusArmouryCrateLinux** — Integration for ASUS Armoury Crate features on Linux.
-  https://github.com/acedmicabhishek/asusArmouryCrateLinux
+- **[asusArmouryCrateLinux](https://github.com/acedmicabhishek/asusArmouryCrateLinux)** — Integration for ASUS Armoury Crate features on Linux.
 
-- **logitechGhubLinux** — Integration for Logitech G Hub devices and settings.
-  https://github.com/acedmicabhishek/logitechGhubLinux
+- **[logitechGhubLinux](https://github.com/acedmicabhishek/logitechGhubLinux)** — Integration for Logitech G Hub devices and settings.
 
-- **ryzenControllerLinux** — Ryzen Controller support for CPU/GPU controls on Linux.
-  https://github.com/acedmicabhishek/ryzenControllerLinux
+- **[ryzenControllerLinux](https://github.com/acedmicabhishek/ryzenControllerLinux)** — Ryzen Controller support for CPU/GPU controls on Linux.
 
-- **systemInfoPlugin** — Lightweight plugin to expose system information to KernelDrive.
-  https://github.com/acedmicabhishek/systemInfoPlugin
+- **[systemInfoPlugin](https://github.com/acedmicabhishek/systemInfoPlugin)** — Lightweight plugin to expose system information to KernelDrive.
