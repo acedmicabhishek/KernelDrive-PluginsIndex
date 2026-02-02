@@ -1,7 +1,7 @@
 # KernelDrive-PluginsIndex
 Plugins made by me <acedmicabhishek>
 
-## Plugins 📦
+## Plugins
 
 - **[asusArmouryCrateLinux](https://github.com/acedmicabhishek/asusArmouryCrateLinux)** — Integration for ASUS Armoury Crate features on Linux.
 
